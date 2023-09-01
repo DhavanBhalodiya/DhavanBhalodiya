@@ -6,6 +6,8 @@ I'm Dhavan from India, and I do content on Development. I really enjoy learning 
 * Android
 * Kotlin
 * Compose
+* Flutter
+* Dart
 * HTML / CSS
 
 
