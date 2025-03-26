@@ -1,7 +1,6 @@
 # Dhavan Bhalodiya
-#### Android Developer
+#### Flutter and Android Developer
 # Expert in mobile application development
-I'm Dhavan from India, and I do content on Development. I really enjoy learning languages and frameworks.
 
 <img src="https://github-readme-stats.vercel.app/api?username=DhavanBhalodiya&show_icons=true&theme=gotham" alt="DhavanBhalodiya | Stats" />
 
@@ -16,15 +15,25 @@ I'm Dhavan from India, and I do content on Development. I really enjoy learning 
 <img align="left" alt="android" src="https://img.shields.io/badge/Java-4081ec.svg?&style=for-the-badge&logo=Coding%20Method&logoColor=white" />
 <br>
 
-## Skills and Experience
-* Android
-* Kotlin
-* Compose
-* Flutter
-* Dart
-* HTML / CSS
+## PROFESSIONAL SUMMARY
+```
+An experienced Software Engineer with over 8+ years of expertise in Android & Flutter development.
+Builds beautiful, cross-platform apps. Kotlin, Dart, & Clean architecture pro. 
+Ready to bring your mobile vision to life!
+```
 
+<img align="left" alt="android" src="https://img.shields.io/badge/Methodologies-7d6bce.svg?&style=for-the-badge&logo=Methodologies&logoColor=white" />
+<br>
 
+```
+Agile
+```
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DhavanBhalodiya)  
+<img align="left" alt="android" src="https://img.shields.io/badge/Coding%20Method-87b554.svg?&style=for-the-badge&logo=Coding%20Method&logoColor=white" />
+<br>
+
+```
+MVC, MVP and MVVM
+```
+  
 
